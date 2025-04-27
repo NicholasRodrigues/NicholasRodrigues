@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">A passionate Software Developer from Brasil</h3>
+<h3 align="center">A passionate Software Engineer from Brasil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholasrodrigues" alt="nicholasrodrigues" /></a> </p>
 
-- 🔭 I’m currently working on [data-structures-visualization](https://github.com/NicholasRodrigues/data-structures-visualization-new)
+- 🔭 I’m currently working at [11x.ai](https://11x.ai) building [Julian](https://11x.ai/julian)
 
-- 🌱 I’m currently learning **React, Typescript, Node.JS, Golang**
 
-- 📫 How to reach me **nicholasgabriel65@gmail.com**
+- 📫 How to reach me **nrodrigs@stanford.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
