@@ -59,8 +59,8 @@ fun_fact: I write Go for fun and Python for money
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholasrodrigues&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrodrigues&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicholasrodrigues&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicholasrodrigues&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -74,16 +74,16 @@ fun_fact: I write Go for fun and Python for money
 <div align="center">
 
 <a href="https://github.com/NicholasRodrigues/att-is-all-we-need">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholasrodrigues&repo=att-is-all-we-need&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicholasrodrigues&repo=att-is-all-we-need&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/NicholasRodrigues/mini-db">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholasrodrigues&repo=mini-db&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicholasrodrigues&repo=mini-db&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/NicholasRodrigues/go-chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholasrodrigues&repo=go-chain&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicholasrodrigues&repo=go-chain&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/NicholasRodrigues/blog-aggregator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholasrodrigues&repo=blog-aggregator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicholasrodrigues&repo=blog-aggregator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -102,7 +102,7 @@ fun_fact: I write Go for fun and Python for money
 
 <div align="center">
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nicholasrodrigues&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-trophies.vercel.app/?username=nicholasrodrigues&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
