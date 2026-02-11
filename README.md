@@ -24,7 +24,7 @@ role: Software Engineer @ 11x.ai
 building: Julian — autonomous AI SDR
 education: Stanford University
 interests: [distributed systems, AI/ML, compilers, low-level stuff]
-fun_fact: I write Go for fun and Python for money
+fun_fact: I write Go for fun and TS for money
 ```
 
 ---
